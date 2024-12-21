@@ -1,10 +1,5 @@
 <a id="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
+[![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -14,7 +9,6 @@
   </a>
 
   <h3 align="center">ESP Home HAN Reader</h3>
-
   <p align="center">
     Get your power usage in realtime with extreme detail using the HAN-port.
     <br />
