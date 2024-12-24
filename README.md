@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lcholdings/esphome-han-reader">
-    <img src="https://raw.githubusercontent.com/LCHoldings/esphome-han-reader/refs/heads/main/images/PCB.png" alt="Logo" style="border-radius: 10px" width="400" height="320">
+    <img src="https://raw.githubusercontent.com/LCHoldings/esphome-han-reader/refs/heads/main/images/PCB.png" alt="Logo" style="border-radius: 10px" width="400">
   </a>
 
   <h3 align="center">ESP Home HAN Reader</h3>
